@@ -11,6 +11,7 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 ## Algorithm
 1. Load the Data Import the dataset to begin the dimensionality reduction process.
 
+
 2.Explore the Data Perform an initial analysis to understand data characteristics, distributions, and potential patterns.
 Preprocess the Data (Feature Scaling) Scale features to ensure consistency, preparing the data for principal component analysis (PCA)
 
@@ -62,6 +63,8 @@ plt.show()
 ```
 
 ## Output:
+
+<img width="787" height="744" alt="Screenshot 2026-03-29 193521" src="https://github.com/user-attachments/assets/a56ff9db-d8cb-412a-86d0-ba27b8b14e2f" />
 
 
 
